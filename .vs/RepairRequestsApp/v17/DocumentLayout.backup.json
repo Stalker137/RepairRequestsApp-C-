@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\requestmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\requestmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\requestmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\requestmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\requestmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\requestmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\requestdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\requestdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\requestdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\requestdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\addclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\addclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\commentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\commentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\clientsmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\clientsmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\mainappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\mainappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|c:\\users\\artem\\onedrive\\desktop\\repairrequestsapp\\repairrequestsapp\\usersmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFE0EF8-10F9-4A19-853D-633C6FB19E75}|RepairRequestsApp\\RepairRequestsApp.csproj|solutionrelative:repairrequestsapp\\usersmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\RequestManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestManagementForm.Designer.cs",
+              "RelativeToolTip": "RepairRequestsApp\\RequestManagementForm.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwGIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:59:27.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestManagementForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\RequestManagementForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestManagementForm.cs*",
+              "RelativeToolTip": "RepairRequestsApp\\RequestManagementForm.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:53:07.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestDetailsForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\RequestDetailsForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\RequestDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:22.664Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatisticsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\StatisticsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\StatisticsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:25.21Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\EditUserForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\EditUserForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\EditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\EditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:19.421Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestDetailsForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\RequestDetailsForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestDetailsForm.cs",
+              "RelativeToolTip": "RepairRequestsApp\\RequestDetailsForm.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwNQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:39:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestManagementForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\RequestManagementForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RequestManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "RepairRequestsApp\\RequestManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:23.937Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\AddClientForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\AddClientForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\AddClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\AddClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:42:43.564Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\CommentForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\CommentForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\CommentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\CommentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:42:37.541Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientsManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\ClientsManagementForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\ClientsManagementForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\ClientsManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\ClientsManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:18.838Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainAppForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\MainAppForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\MainAppForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\MainAppForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\MainAppForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:21.137Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:21.839Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:20.087Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\UsersManagementForm.cs",
+              "RelativeDocumentMoniker": "RepairRequestsApp\\UsersManagementForm.cs",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\RepairRequestsApp\\RepairRequestsApp\\UsersManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RepairRequestsApp\\UsersManagementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:24:26.199Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
